@@ -63,3 +63,10 @@ body {
   .content {
     padding: 40px;
   }
+
+  .image {
+    background-image: url(icybluecourt.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+  }
